@@ -134,7 +134,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/BTS_POSTER.jpg') top center /cover no-repeat;
+    background: url('../img/BTS_POSTER.jpg') top center /cover no-repeat;
 }
 /* end slider */
 
